@@ -1,1 +1,1 @@
-# ee464_project_1
+This is the GitHub repo for METU EE464 Project 1
